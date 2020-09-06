@@ -1,0 +1,11 @@
+.note {
+  min-width: 200px;
+  padding: 25px;
+  border-radius: 50px;
+  box-shadow: 0 1px 5px rgb(138, 137, 137);
+  margin: 10px 20px;
+}
+
+.note h4 p {
+  padding: 10px;
+}
